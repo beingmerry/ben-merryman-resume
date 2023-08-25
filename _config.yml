@@ -92,11 +92,11 @@ content:
         sub_title: Control Systems Engineer
         caption: July 2020 - October 2022
         description: | # this will include new lines to allow paragraphs
-            Created comprehensive graphics library for large pharmaceutical client using DeltaV Live (new HTML5 based graphics) covering pumps, motors, valves, batch controls, sanitation timers, and water-for-injection (WFI) interfaces.
-            Built Alarm Real-time Mapping (ARM) application in DeltaV Live using TypeScript code to interact with SQL databases, filter tables of alarms based on selections, to populate a dynamic alarm guide, and to generate a floor plan style map of current alarms. Utilized Plantweb Optics (K-Net) to build responsive, step-by-step, alarm remediation guides for certain alarms.
-            Developed, configured, and documented control modules (CMs), I/O interfaces, graphics, and equipment modules (EMs) in DeltaV v14.3 and DeltaV v14.LTS.
-            Developed logic, graphical interface, alarming, and cross-vendor communications to Rockwell Logix based controllers at a natural gas storage facility serving 500k + customers.
-            Developed new Ethernet/IP (industrial protocol) layer for communicating to Cytiva Wave Rocker cell propagator saving over 200+ hours in re-development and re-certification at a major international pharma company.
+            - Created comprehensive graphics library for large pharmaceutical client using DeltaV Live (new HTML5 based graphics) covering pumps, motors, valves, batch controls, sanitation timers, and water-for-injection (WFI) interfaces.
+            - Built Alarm Real-time Mapping (ARM) application in DeltaV Live using TypeScript code to interact with SQL databases, filter tables of alarms based on selections, to populate a dynamic alarm guide, and to generate a floor plan style map of current alarms. Utilized Plantweb Optics (K-Net) to build responsive, step-by-step, alarm remediation guides for certain alarms.
+            - Developed, configured, and documented control modules (CMs), I/O interfaces, graphics, and equipment modules (EMs) in DeltaV v14.3 and DeltaV v14.LTS.
+            - Developed logic, graphical interface, alarming, and cross-vendor communications to Rockwell Logix based controllers at a natural gas storage facility serving 500k + customers.
+            - Developed new Ethernet/IP (industrial protocol) layer for communicating to Cytiva Wave Rocker cell propagator saving over 200+ hours in re-development and re-certification at a major international pharma company.
             
       - layout: left
         title: DuPont (on contract from HTSE)
@@ -105,12 +105,12 @@ content:
         sub_title: Control Systems Engineer
         caption: July 2020 - October 2022
         description: | # this will include new lines to allow paragraphs
-            Continued to provide support for Dow legacy plants post spin via ABB 800xA troubleshooting, programming, and administration.
-            Coded and remotely supported the installation of custom RS485 communications protocols between Honeywell devices and ABB CI867 modules, and developed gel die temperature control logic at an Extruded Polystyrene Plant (insulation) in Idaho.
-            Coded and supported on-site the installation of Pelletizer Speed Control Code, loss of anti foam alarm system, and level control code for waste brine units at a Methylated Cellulose (Methocel) Plant in Michigan.
-            Remotely developed process control logic utilizing structured text (ST) with ABB 800xA Control Builder M at a methylated cellulose (Methocel) plant in Michigan (80%).
-            Performed on-site project startup support, operator training, and logic tuning and troubleshooting (15% travel)
-            Remotely provided ABB 800xA 6.0 administrative, troubleshooting, and control logic coding support for an extruded polystyrene (XPS) plant in Idaho (5%).
+            - Continued to provide support for Dow legacy plants post spin via ABB 800xA troubleshooting, programming, and administration.
+            - Coded and remotely supported the installation of custom RS485 communications protocols between Honeywell devices and ABB CI867 modules, and developed gel die temperature control logic at an Extruded Polystyrene Plant (insulation) in Idaho.
+            - Coded and supported on-site the installation of Pelletizer Speed Control Code, loss of anti foam alarm system, and level control code for waste brine units at a Methylated Cellulose (Methocel) Plant in Michigan.
+            - Remotely developed process control logic utilizing structured text (ST) with ABB 800xA Control Builder M at a methylated cellulose (Methocel) plant in Michigan (80%).
+            - Performed on-site project startup support, operator training, and logic tuning and troubleshooting (15% travel)
+            - Remotely provided ABB 800xA 6.0 administrative, troubleshooting, and control logic coding support for an extruded polystyrene (XPS) plant in Idaho (5%).
             
 
   - title: Education # Title for the section
