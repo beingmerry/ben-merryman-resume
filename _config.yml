@@ -15,25 +15,25 @@ website: benmerryman.com
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: beingmerry
+github_username:  beingmerry
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: benjmerryman
+linkedin_username: benmerryman
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: beingmerry
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: KangaBrew
+  icon: fas fa-beer
+  url: https://kangabrew.benmerryman.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,71 +46,83 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Ben Merryman and I'm a controls engineer who recently expanded my skillset with a full-stack software engineering bootcamp. 
+  I am a motivated and adaptable engineer who has designed, built, tested and integrated the following: 
+  Industrial and business logic, industrial devices, applications, PCs, networks, and more. 
+  Driver of innovation and performance. Web technologies evangelist. 
+  Forges Operational Technology (OT) with Information Technology (IT) in to interfaces and logic that are easy to learn, use, re-use, and expand. 
+  **Looking for roles in web development, controls, or manufacturing.** Available to start immediately. 
+  
+  I am most skilled in: <mark>Control Sytems</mark>, <mark>User Interfaces</mark>, <mark>HTML</mark> and <mark>JavaScript</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: KangaBrew
+        link: github.com/beingmerry/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  KangaBrew
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/beingmerry/KangaBrew
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Let's go visit a couple breweries! But which ones....?
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way of learning <mark>JavaScript</mark>, <mark>REST APIs</mark>, <mark>HTML</mark>, and <mark>CSS</mark>.  I still think it is a good example of fun way to learn to code!
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: PROCONEX
+        link: proconexdirect.com
+        link_text: PROCONEX
+        sub_title: Control Systems Engineer
+        caption: July 2020 - October 2022
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Created comprehensive graphics library for large pharmaceutical client using DeltaV Live (new HTML5 based graphics) covering pumps, motors, valves, batch controls, sanitation timers, and water-for-injection (WFI) interfaces.
+            Built Alarm Real-time Mapping (ARM) application in DeltaV Live using TypeScript code to interact with SQL databases, filter tables of alarms based on selections, to populate a dynamic alarm guide, and to generate a floor plan style map of current alarms. Utilized Plantweb Optics (K-Net) to build responsive, step-by-step, alarm remediation guides for certain alarms.
+            Developed, configured, and documented control modules (CMs), I/O interfaces, graphics, and equipment modules (EMs) in DeltaV v14.3 and DeltaV v14.LTS.
+            Developed logic, graphical interface, alarming, and cross-vendor communications to Rockwell Logix based controllers at a natural gas storage facility serving 500k + customers.
+            Developed new Ethernet/IP (industrial protocol) layer for communicating to Cytiva Wave Rocker cell propagator saving over 200+ hours in re-development and re-certification at a major international pharma company.
+            
+      - layout: left
+        title: DuPont (on contract from HTSE)
+        link: Dupont.com
+        link_text: PROCONEX
+        sub_title: Control Systems Engineer
+        caption: July 2020 - October 2022
+        description: | # this will include new lines to allow paragraphs
+            Continued to provide support for Dow legacy plants post spin via ABB 800xA troubleshooting, programming, and administration.
+            Coded and remotely supported the installation of custom RS485 communications protocols between Honeywell devices and ABB CI867 modules, and developed gel die temperature control logic at an Extruded Polystyrene Plant (insulation) in Idaho.
+            Coded and supported on-site the installation of Pelletizer Speed Control Code, loss of anti foam alarm system, and level control code for waste brine units at a Methylated Cellulose (Methocel) Plant in Michigan.
+            Remotely developed process control logic utilizing structured text (ST) with ABB 800xA Control Builder M at a methylated cellulose (Methocel) plant in Michigan (80%).
+            Performed on-site project startup support, operator training, and logic tuning and troubleshooting (15% travel)
+            Remotely provided ABB 800xA 6.0 administrative, troubleshooting, and control logic coding support for an extruded polystyrene (XPS) plant in Idaho (5%).
+            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        title: Iowa State University
+        caption: 2006 - 2010
+        sub_title: BSc Chemical Engineering
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in control systems and software engineering some of my other interests and hobbies are:
+      - Snowboarding
+      - Gaming (video and board)
+      - Reading
 
 # Footer
 footer_show_references: true
