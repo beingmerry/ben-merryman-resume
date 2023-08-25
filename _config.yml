@@ -48,11 +48,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ben Merryman and I'm a controls engineer who recently expanded my skillset with a full-stack software engineering bootcamp. 
+  Hi, my name is Ben Merryman and I am a controls engineer who recently expanded my skillset with a full-stack software engineering bootcamp. 
+  
   I am a motivated and adaptable engineer who has designed, built, tested and integrated the following: 
+  
   Industrial and business logic, industrial devices, applications, PCs, networks, and more. 
+  
   Driver of innovation and performance. Web technologies evangelist. 
+  
   Forges Operational Technology (OT) with Information Technology (IT) in to interfaces and logic that are easy to learn, use, re-use, and expand. 
+  
   **Looking for roles in web development, controls, or manufacturing.** Available to start immediately. 
   
   I am most skilled in: <mark>Control Sytems</mark>, <mark>User Interfaces</mark>, <mark>HTML</mark> and <mark>JavaScript</mark>
