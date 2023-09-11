@@ -89,10 +89,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Control Systems Engineer
+        title: Automation Engineer
         link: proconexdirect.com
         link_text: PROCONEX
-        sub_title: Pharma, Natural Gas
+        sub_title: Pharma (viral grow stage), Natural Gas (storage and compressors)
         caption: July 2020 - October 2022
         description: | # this will include new lines to allow paragraphs
             - Created comprehensive graphics library for large pharmaceutical client using DeltaV Live (new HTML5 based graphics) covering pumps, motors, valves, batch controls, sanitation timers, and water-for-injection (WFI) interfaces.
@@ -105,7 +105,7 @@ content:
         title: Control Systems Engineer
         link: Dupont.com
         link_text: DUPONT
-        sub_title: Chemicals, Insulation
+        sub_title: Specialty Chemicals, Insulation Manufacturing
         caption: August 2018 - June 2020
         description: | # this will include new lines to allow paragraphs
             - Continued to provide support for Dow legacy plants post spin via ABB 800xA troubleshooting, programming, and administration.
@@ -119,7 +119,7 @@ content:
         title: Quality Control Systems Engineer
         link: ABB.com
         link_text: ABB
-        sub_title: Paper Mills
+        sub_title: Paper Mills (scanners, tuning controls)
         caption: December 2015 - July 2018
         description: | # this will include new lines to allow paragraphs
             - Continued to provide support for Dow legacy plants post spin via ABB 800xA troubleshooting, programming, and administration.
