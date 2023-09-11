@@ -25,7 +25,7 @@ instagram_username: benjmerryman
 linkedin_username: benmerryman
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: beingmerry
+# youtube_username: beingmerry
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -34,6 +34,9 @@ additional_links:
 - title: KangaBrew
   icon: fas fa-beer
   url: https://kangabrew.benmerryman.com
+- title: YouTube Channel
+  icon: fab fa-youtube
+  url: https://www.youtube.com/@beingmerry/videos
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
